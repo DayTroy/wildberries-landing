@@ -151,7 +151,6 @@ body{
 }
 
 .card-title.large{
-  min-width: 420px;
   font-size: 40px;
   line-height: 50px;
   margin-top: 30px;
