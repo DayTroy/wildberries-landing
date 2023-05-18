@@ -1,9 +1,11 @@
-# Wildberries - Training project in Glo Academy (Project for practicing skills in web development)
+# Wildberries - Training project in Glo Academy
+This project was made to develop skills in creating a landing page
 Completed by Sultonov Rustam
+
 ## The following technologies were used in the project:
 • HTML
 • CSS
-• JavaScript
+• JS
 
 ### Libraries:
 • Bootstrap v5
